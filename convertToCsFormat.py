@@ -52,5 +52,3 @@ with open(args.input, mode='r', encoding='utf-8') as infile:
             })
 
             pass
-
-# Note: The actual transformation logic inside the loop is omitted and needs to be implemented based on your CSV structure and requirements.
